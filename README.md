@@ -1,31 +1,23 @@
+### Hi there 👋, I'm Lewin
+#### I am Discord Developer 💻
+![I am Discord Developer 💻](https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif)
 
-<!-- ## Hi! I'm Lewin 🖐️ -->
+I'm discord developer. my server is https://discord.gg/botcode
 
-##  Hi! I'm Lewin 👋
-## [![GitHub followers](https://img.shields.io/github/followers/lewincode?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/lewincode?tab=followers)
-<a href="https://discord.com/users/1146087037800296478">
- <img src="https://lanyard.cnrad.dev/api/1146087037800296478?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment&bg=161a23&animated=true" align="right" />
-</a>
+Skills: VUE JS / REACT / JS / HTML / CSS / JAVA
 
-### 🧠 Technologies I use
-#### Languages
-![](https://skillicons.dev/icons?i=js,ts,py,php,go&theme=dark&perline=6)
-#### Frameworks
-![](https://skillicons.dev/icons?i=next,react,nodejs,tailwind,bootstrap,express&theme=dark&perline=6)
-#### Databases
-![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark&perline=6)
-#### Other
-![](https://skillicons.dev/icons?i=github,git,figma,photoshop,cloudflare,vercel,replit,vscode,visualstudio,discord&theme=dark&perline=6)
+- 🔭 I’m currently working on Developing 
+- 📫 How to reach me: discord.gg/botcode 
 
 
-<!--START_SECTION:waka-->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lewincode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/szymanberk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.botcode.info)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wwe.svg' alt='wwe' height='40'>](https://discord.gg/botcode)  
 
-```txt
-JavaScript       31 hrs 4 mins   █████████████▒░░░░░░░░░░░   53.36 %
-HTML             6 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Other            5 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-JSON             3 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-TypeScript       3 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-```
+[![trophy](https://github-profile-trophy.vercel.app/?username=lewincode)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewincode)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lewincode&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/lewincode/contributions?format=svg&private=false)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=lewincode) 
