@@ -1,38 +1,27 @@
-##  Hi! I'm Lewin 👋
-## [![GitHub followers](https://img.shields.io/github/followers/lewincode?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/turkwr?tab=followers)
-<a href="https://discord.com/users/1146087037800296478">
- <img src="https://lanyard.cnrad.dev/api/1146087037800296478?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment&bg=161a23&animated=true" align="right" />
-</a>
+<h1 align="center">Hi 👋, I'm Lewin</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
-### 🧠 Technologies I use
-#### Languages
-![](https://skillicons.dev/icons?i=js,ts,py,php,go&theme=dark&perline=6)
-#### Frameworks
-![](https://skillicons.dev/icons?i=next,react,nodejs,tailwind,bootstrap,express&theme=dark&perline=6)
-#### Databases
-![](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark&perline=6)
-#### Other
-![](https://skillicons.dev/icons?i=github,git,figma,photoshop,cloudflare,vercel,replit,vscode,visualstudio,discord&theme=dark&perline=6)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lewincode&label=Profile%20views&color=0e75b6&style=flat" alt="lewincode" /> </p>
 
+<p align="left"> <a href="https://twitter.com/lewincode" target="blank"><img src="https://img.shields.io/twitter/follow/lewincode?logo=twitter&style=for-the-badge" alt="lewincode" /></a> </p>
 
-<!--START_SECTION:waka-->
+- 🔭 I’m currently working on **Developing**
 
-```txt
-JavaScript       31 hrs 4 mins   █████████████▒░░░░░░░░░░░   53.36 %
-HTML             6 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Other            5 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-JSON             3 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-TypeScript       3 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-```
+- 📫 How to reach me **discord.gg/botcode**
 
-<!--END_SECTION:waka-->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/lewincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lewincode" height="30" width="40" /></a>
+<a href="https://instagram.com/szymanberk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="szymanberk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/lewincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lewincode" height="30" width="40" /></a>
+<a href="https://discord.gg/botcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="botcode" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewincode&show_icons=true&locale=en&layout=compact" alt="lewincode" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lewincode&show_icons=true&locale=en" alt="lewincode" /></p>
 
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewincode&" alt="lewincode" /></p>
